@@ -1,1 +1,1 @@
-uri: 'mongodb+srv://Povs:povs_ljp@prontuarios.ftisk.mongodb.net/pront_med?retryWrites=true&w=majority'
+uri: 'mongodb+srv://[servidor]:[senha]@prontuarios.ftisk.mongodb.net/pront_med?retryWrites=true&w=majority'

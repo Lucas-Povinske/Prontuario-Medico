@@ -1,18 +1,12 @@
-# frontend
+# Frontend
 
-## Project setup
+## Setup do projeto
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compilação e Teste para Desenvolvimento
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
 
